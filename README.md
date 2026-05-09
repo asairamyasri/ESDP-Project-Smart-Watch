@@ -32,6 +32,9 @@ The hardware section includes:
 
 ## Software
 The software section contains:
+-GPIO Mapping: Hardware configuration for the ESP32-S3.
+-Diagnostic Suite: Firmware for component testing and bring-up.
+-Driver Logic: Low-power E-Ink and battery management.
 ## Current Status
 
 - [x] Proposal completed
