@@ -47,4 +47,4 @@ The software section contains:
 - [ ] Hardware debugging
 
 ## Ongoing Work
-Currently resolving design queries and finalizing hardware corrections before fabrication.
+Currently resolving design queries raised by PCB Power and finalizing hardware corrections before fabrication.
