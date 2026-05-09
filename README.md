@@ -32,3 +32,16 @@ The hardware section includes:
 
 ## Software
 The software section contains:
+## Current Status
+
+- [x] Proposal completed
+- [x] BOM prepared
+- [x] Schematic designed
+- [x] PCB layout completed
+- [x] Gerber files generated
+- [ ] PCB fabrication
+- [ ] Firmware integration
+- [ ] Hardware debugging
+
+## Ongoing Work
+Currently resolving design queries and finalizing hardware corrections before fabrication.
