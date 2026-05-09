@@ -1,5 +1,4 @@
-# ESDP-Project-Smart-Watch
-# ESP32 E-Ink Smartwatch Project
+### Ultra-Low-Power ESP32 Smartwatch
 
 ## Overview
 This project is an ESP32-based smartwatch using an E-Ink display for low-power wearable applications. 
