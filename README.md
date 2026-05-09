@@ -1,4 +1,4 @@
-### Ultra-Low-Power ESP32 Smartwatch
+# Ultra-Low-Power ESP32 Smartwatch
 
 ## Overview
 This project is an ESP32-based smartwatch using an E-Ink display for low-power wearable applications. 
