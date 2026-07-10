@@ -1,0 +1,41 @@
+Id;Designator;Footprint;Quantity;Designation;MPN;Datasheet Link
+1;C22,C24,C26,C15,C4,C2,C3,C25,C23,C28,C27,C29;C_0402_1005Metric;12;1uF;C0402C105K4PACTU;https://www.mouser.in/datasheet/3/72/1/C0402C105K4PACTU.pdf
+2;R19,R4,R11,R2,R6,R15,R10,R7,R8;R_0402_1005Metric;9;100k;AC0402FR-07100KL ;https://www.mouser.in/datasheet/3/508/1/PYU_AC_51_ROHS_L.pdf
+3;R1,R20,R3,R18;R_0402_1005Metric;4;10k;RC0402FR-0710KL ;https://www.mouser.com/catalog/specsheets/YAGEO_PYu_RC_Group_51_RoHS_L_12.pdf
+4;Y1;Crystal_SMD_2012-2Pin_2.0x1.2mm;1;Crystal;ABS07-32.768KHZ-T ;https://www.mouser.in/datasheet/3/184/1/ABS07.pdf
+5;C6,C11,C5,C14,C12,C13;C_0402_1005Metric;6;100nF;0402B104J250NT;https://www.mouser.in/datasheet/3/317/1/WTC_MLCC_General_Purpose.pdf
+6;C1,C10;C_0402_1005Metric;2;10uF;C0402B106M010T;https://www.holystonecaps.com/PDF/201612051328350.2017%20HCC%20Series.pdf
+7;Y2;Crystal_SMD_2520-4Pin_2.5x2.0mm;1;Crystal_GND24;XRCGB40M000F1S2FR0 ;https://pim.murata.com/asset/pim4/ceramicResonatorCrystalUnit/SPEC_XRCGB40M000F1S2FR0_PDF_CERAMICRESONATORCRYSTALUNIT?lastModifiedDatetime=20250707192343
+8;SW3,SW4,SW1,SW2;TS24CA;4;BTN3;TS24CA 250gf 013;https://www.lcsc.com/datasheet/C5373430.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FQALBFQERlVcBFAATlQLVAFeT1kLVlJSE1hcUVVVTgcxVlNRTlFWX1BTQVRfVjsOAxUeFF5JWBYZEEoBGA4JCwFIFA4DSA%3D%3D
+9;R12,R16;R_0402_1005Metric;2;1M;RC0402JR-071ML ;https://www.mouser.com/catalog/specsheets/YAGEO_PYu_RC_Group_51_RoHS_L_12.pdf
+10;C7,C9;C_0402_1005Metric;2;3pF;TCC0402COG3R0C500AT ;https://www.lcsc.com/datasheet/C696883.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FQALBFQERlVcBFAATlQLVAFeT1kLVlJSE1hcUVVVTgcxVlNRT1dXV1NTT1dZUzsOAxUeFF5JWBYZEEoBGA4JCwFIFA4DSA%3D%3D
+11;D1,D3,D5,D4;DIO_MBR0530T3G;4;MBR0530T3G;MBR0530-TP ;https://www.mouser.in/datasheet/3/225/1/MBR0520-MBR0580(SOD123).pdf
+12;R9;R_0402_1005Metric;1;360k;AC0402FR-07360KL ;https://www.mouser.in/datasheet/3/508/1/PYU_AC_51_ROHS_L.pdf
+13;Q2;SOT-23;1;MMBT3904LT1G;MMBT3904LT1G ;https://www.onsemi.com/pdf/datasheet/mmbt3904lt1-d.pdf
+14;J3;24_Pins_0.5mm_Pitch_ZIF_Connector_UP;1;Conn_01x24;AFC07-S24ECA-00 ;https://www.lcsc.com/datasheet/C262643.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FQALBFQERlVcBFAATlQLVAFeT1kLVlJSE1hcUVVVTgcxVlNRT1dXV1xSQFZfXjsOAxUeFF5JWBYZEEoBGA4JCwFIFA4DSA%3D%3D
+15;J1;1.25T-2PWT (Molex 532610271);1;532610271;532610271;https://www.molex.com/en-us/products/part-detail-pdf/532610271?display=pdf
+16;U2;SOT-23-5;1;AP2112K-3.3;AP2112K-3.3TRG1 ;https://www.mouser.in/datasheet/3/175/1/AP2112.pdf
+17;J2;USB_Micro-B;1;U-F-M5DD-Y-L;U-F-M5DD-Y-L ;https://www.lcsc.com/datasheet/C91146.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FQALBFQERlVcBFAATlQLVAFeT1kLVlJSE1hcUVVVTgcxVlNRT1dXV11VQVRdVTsOAxUeFF5JWBYZEEoBGA4JCwFIFA4DSA%3D%3D
+18;C21,C20;C_0603_1608Metric;2;4.7uF;GRM188Z71C475KE21D ;https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GRM188Z71C475KE21-01A-EN_PDF_CERAMICCAPACITORSMD
+19;R14,R5;R_0402_1005Metric;2;51k;AC0402FR-0751KL ;https://www.mouser.in/datasheet/3/508/1/PYU_AC_51_ROHS_L.pdf
+20;U5;SOT-666;1;USBLC6-2P6;USBLC6-2P6 ;https://www.st.com/resource/en/datasheet/usblc6-2.pdf
+21;C19,C16;C_0402_1005Metric;2;8pF;GRM1555C1H8R0CA01D ;https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GRM1555C1H8R0CA01-01A-EN_PDF_CERAMICCAPACITORSMD
+22;U4;QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm;1;ESP32-S3;ESP32-S3FN8 ;https://documentation.espressif.com/esp32-s3_datasheet_en.pdf
+23;Q3;SOT-23;1;CJ3400A;CJ3400A;https://evelta.com/content/datasheets/217-CJ3400A.pdf
+24;D2;D_SOD-123F;1;1N4001W;1N4001W ;https://robu-prod-media.s3.ap-south-1.amazonaws.com/uploads/2025/02/C2936037.pdf
+25;L2;L_Taiyo-Yuden_NR-40xx;1;47uH;NR4018T470M ;https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/610/NR4018T470M_SS.pdf
+26;C17,C18;C_0402_1005Metric;2;18pF;GRM1555C1H180JA01D ;https://www.mouser.in/datasheet/3/76/1/GRM1555C1H180JA01-01A.pdf
+27;M1;Motor_Header;1;Motor_DC;VC1020B111F ;https://www.vybronics.com/coin-vibration-motors/with-brushes/v-c1020b111f
+28;L1;L_0402_1005Metric;1;7.5nH;LQG15HS7N5J02D ;https://www.mouser.in/datasheet/3/76/2/JELF243B_0010.pdf
+29;U6;LGA-12_2x2mm_P0.5mm;1;BMA421;BMA421 ;https://files.pine64.org/doc/datasheet/pinetime/BST-BMA421-FL000.pdf
+30;R13;R_0402_1005Metric;1;1k;AC0402FR-071KL ;https://www.mouser.in/datasheet/3/508/1/PYU_AC_51_ROHS_L.pdf
+31;U1;sr2haru;1;SR2HARU;SR2HARU ;https://www.st.com/resource/en/datasheet/sr2.pdf
+32;U3;SOT-23-5;1;MCP73831-2-OT;MCP73831T-2ACI/OT;https://www.mouser.in/datasheet/3/282/1/MCP73831_Family_Data_Sheet_DS20001984H.pdf
+33;R17;R_0402_1005Metric;1;2.2;WR04W2R20FTL;https://www.mouser.in/datasheet/3/317/1/ASC_WR.pdf
+34;Q1;SOT-23;1;FDN306P;FDN306P;https://www.onsemi.com/pdf/datasheet/fdn306p-d.pdf
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;; ;;;;
