@@ -37,15 +37,17 @@ The software section contains:
 -Driver Logic: Low-power E-Ink and battery management.
 ## Current Status
 
-- [x] Proposal completed
-- [x] BOM prepared
-- [x] Schematic designed
-- [x] PCB layout completed
-- [x] Gerber files generated
+- [x] Create a Proposal
+- [x] Prepare the BOM
+- [x] Draw the schematic
+- [x] PCB Layout
+- [x] Generate Gerber Files
+- [x] Order PCB on PCB Power
 - [x] Design a case for the PCB
-- [x] PCB fabrication
-- [ ] Firmware integration
-- [ ] Hardware debugging
+- [x] Develop Firmware
+- [x] Receive PCB
+- [ ] Firmware Integration
+- [ ] Hardware Debugging if any
 
 ## Ongoing Work
-Currently testing firmware and flashing the code onto the PCB.
+Testing firmware on the PCB.
