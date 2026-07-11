@@ -42,6 +42,7 @@ The software section contains:
 - [x] Schematic designed
 - [x] PCB layout completed
 - [x] Gerber files generated
+- [x] Design a case for the PCB
 - [x] PCB fabrication
 - [ ] Firmware integration
 - [ ] Hardware debugging
